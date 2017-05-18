@@ -1,0 +1,45 @@
+.jumbotron {
+	background: url("../images/gplaypattern_@2x.png");
+	background-color: white;
+	border: 10px;
+	font-family: 'Alfa Slab One', cursive;
+
+}
+
+body {
+	background: url("../images/gplaypattern_@2x.png");
+	 font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+  font-weight: bold;
+
+}
+
+#instructions {
+	padding: 20px;
+}
+
+.crystals {
+	padding-left: 30px;
+	padding-top: 25px;
+	padding-bottom: 22px;
+}
+
+#random-number {
+	font-size: 60px;
+	padding: 20px;
+	text-align: center;
+}
+
+#wins, #losses, #total-score {
+	font-size: 30px;
+	line-height: 30px;
+}
+
+#total-score {
+	padding: 35px;
+}
+#score-count {
+	padding: 20px;
+}
